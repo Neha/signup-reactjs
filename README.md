@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# ReactJS form with AWS DyanmoDB
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is made with ReactJS, and AWS DynamoDB.
+
+## Update the following keys in LandingPage.jsx
+
+1. region: YOUR_REGION
+
+2. accessKeyId: YOUR_KEY_ID
+
+3. secretAccessKey: YOUR_SECRET_ACCESS_KEY
+
+4. TableName: YOUR_TABLE_NAME,
 
 ## Available Scripts
 
