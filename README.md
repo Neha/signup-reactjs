@@ -1,6 +1,8 @@
 # ReactJS form with AWS DyanmoDB
 
-This project is made with ReactJS, and AWS DynamoDB.
+This project is made with ReactJS, and AWS DynamoDB. 
+
+You can read about this project at my blog - [cloudtips.dev](https://cloudtips.dev/2024/02/01/25-hands-on-building-a-dynamic-email-signup-landing-page-with-reactjs-tailwind-css-and-aws-dynamodb-ses-in-5-simple-steps/)
 
 ## Update the following keys in LandingPage.jsx
 
